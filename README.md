@@ -20,4 +20,5 @@
 |   iPhone XS MAX    |  6.5吋   |  414x896   |  @3x   | 1242x2688  |           | 458  | iPhone11,4、11,6                                  |
 |     iPhone XR      |  6.1吋   |  414x896   |  @2x   |  828x1792  |           | 326  | iPhone11,8                                        |
 
+test1
 
